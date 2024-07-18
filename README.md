@@ -1,4 +1,4 @@
-## Adbot Ad Engagement Forecasting Challenge
+## Adbot Ad Engagement Forecasting Challenge Fourth Position Solution
 
 ### Overview and Objectives of the Challenge
 - The objective of this challenge is to accurately predict the number of clicks a client’s ad receives, one and two weeks into the future (in digital marketing, clicks refer to when someone views the advert and follows one of the hyperlinks in that advert). Winning solutions will further be required to submit a description of the variables that had the most significant impact on engagement (number of clicks). It is therefore important that the models you build are not only accurate, but also interpretable.
